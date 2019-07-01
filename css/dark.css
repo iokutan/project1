@@ -1,0 +1,9 @@
+.dark input[type="button"] {
+  background: #40208a;
+  color: white;
+}
+
+.dark li.body{
+  background: #03084b;
+  color: white;
+}
